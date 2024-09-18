@@ -1,6 +1,6 @@
 html, body {
-	background-color: lightyellow;
-	color: white;
+	background-color: #eeed89;
+	color: brown;
 	font-family: helvetica, arial, sans-serif;
 	font-size: 14px;
 	line-height: 1.5;
@@ -15,7 +15,7 @@ html, body {
 }
 
 section {
-	background-color: #171717;
+	background-color: #eeed89;
 }
 
 h1, h2 {
@@ -82,5 +82,5 @@ code {
 }
 
 code.image {
-	background-color: lightyellow;
+	background-color: #eeed89;
 }
