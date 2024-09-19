@@ -44,17 +44,6 @@ img {
 	width: 500px;
 }
 
-@media all and (max-width: 768px) {
-	.logo img {
-		width: 450px;
-	}
-}
-
-@media all and (max-width: 479px) {
-	.logo img {
-		width: 350px;
-	}
-}
 
 .icon.heart {
 	color: brown;
