@@ -31,18 +31,6 @@ h2:first-of-type {
 	margin-top: 20px;
 }
 
-.logo {
-	display: block;
-}
-
-img {
-	height: auto;
-	max-width: 100%;
-}
-
-.logo img {
-	width: 500px;
-}
 
 
 .icon.heart {
