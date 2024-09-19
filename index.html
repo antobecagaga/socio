@@ -30,19 +30,15 @@
 
 	<!-- Styles -->
 	<link rel="stylesheet" href="style.css">
-		<style amp-custom>
-      /* any custom styles go here. */
-      body {
-        background-color: "#5bbad5;
-      }
-      amp-img {
-        
-      }
-
-      amp-img.grey-placeholder {
-        background-color: grey;
-      }
-    </style>
+	  <style amp-custom> 
+        amp-img>div[fallback] { 
+            display: flex; 
+            align-items: center; 
+            justify-content: center; 
+            background: #f2f2f2; 
+            border: solid 1px #ccc; 
+        } 
+    </style> 
 
 	<!-- Javscript -->
 	<script>
