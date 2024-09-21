@@ -17,7 +17,7 @@ self.addEventListener("install", event => {
 				"favicon-16x16.png", // Favicon, default
 				"favicon-32x32.png", // Favicon, Safari on Mac OS
 				"index.html", // Main HTML file
-				"logo.png", // Logo
+				"log1.webp", // Logo
 				"main.js", // Main Javascript file
 				"manifest.json", // Manifest file
 				"maskable_icon.png", // Favicon, maskable https://web.dev/maskable-icon
