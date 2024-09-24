@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /.git
 Allow: /
 
-Sitemap: socio/sitemap.xml
+Sitemap: sitemap.xml
